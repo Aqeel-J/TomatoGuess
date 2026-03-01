@@ -124,7 +124,23 @@ While not a large enterprise system, the project demonstrates important architec
 ---
 
 ## 🚀 Installation
+**Prerequisites**
+- Java 17 or higher
+- Maven installed
+- Internet connection (required for API calls)
 
+**Steps**
+1. Clone the repository:
+   `git clone https://github.com/Aqeel-J/TomatoGuess.git`
+
+2. Navigate into the project directory:
+   `cd TomatoGuess`
+
+4. Build the project:
+   `mvn clean install`
+
+5. Run the application:
+   `mvn exec:java`
 
 ## 👨‍💻 Author
 Aqeel Jabir
