@@ -38,6 +38,46 @@ This project highlights practical experience in:
 
 ---
 
+
+## 🖼️ Screenshots
+
+### Login Screen
+<p align="center">
+  <img src="screenshots/login.png" width="400"/>
+</p>
+
+### Account Creation
+<p align="center">
+  <img src="screenshots/create_account.png" width="400"/>
+</p>
+
+### Main Menu
+<p align="center">
+  <img src="screenshots/main_menu.png" width="400"/>
+</p>
+
+### Gameplay
+<p align="center">
+  <img src="screenshots/gameplay.png" width="400"/>
+</p>
+
+### Scoreboard
+<p align="center">
+  <img src="screenshots/scoreboard.png" width="400"/>
+</p>
+
+### Game Success
+<p align="center">
+  <img src="screenshots/game_success.png" width="400"/>
+</p>
+
+### Game Over
+<p align="center">
+  <img src="screenshots/game_over.png" width="400"/>
+</p>
+
+---
+
 ## 🍅 Tomato Game API Integration
 
 ### 🔎 What is the Tomato Game API?
