@@ -1,20 +1,72 @@
-# Maven/Gradle build output
-target/
-build/
+# =========================
+# Maven / Java
+# =========================
+# Compiled class files
+*.class
 
+# Maven target directory
+target/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# =========================
 # IntelliJ IDEA
+# =========================
+# Project files
 .idea/
 *.iml
 *.iws
+*.ipr
 
+# Module libraries
+.idea/libraries/
+.idea/modules.xml
+.idea/compiler.xml
+.idea/jarRepositories.xml
+
+# =========================
 # Eclipse
+# =========================
 .classpath
 .project
 .settings/
+.apt_generated
+.factorypath
 
+# =========================
+# NetBeans
+# =========================
+/nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# =========================
 # VS Code
+# =========================
 .vscode/
 
-# OS files
+# =========================
+# OS Files
+# =========================
+# Mac OS
 .DS_Store
+
+# Windows
 Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# =========================
+# Kotlin / Gradle wrapper (optional)
+# =========================
+.gradle/
+.build/
+.kotlin/
